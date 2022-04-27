@@ -132,13 +132,13 @@ Dictionaries & Word Lists
 
 * `Hebrew name lists <https://github.com/NLPH/NLPH_Resources/tree/master/linguistic_resources/word_lists/dday>`_ {`CC-BY 4.0`_} - Lists of street, company, given and last names. Created by Guy Laybovitz.
 
-* `1000 most frequent words in Hebrew tweets during (roughly) 2018 <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/word_lists/top_1000_hebrew_words_twitter_2018.txt>`_.
+* `1000 most frequent words in Hebrew tweets during (roughly) 2018 <https://github.com/NLPH/NLPH_Resources/blob/master/linguistic_resources/word_lists/top_1000_hebrew_words_twitter_2018.txt>`_. 
 
 * `KIMA - the Historical Hebrew Gazetteer <http://data.geo-kima.org/>`_ - Place Names in the Hebrew Script. An open, attestation based, historical database. Kima currently holds 27,239 Places, with 94,650 alternate variants of their names and 236,744 attestations of these variants.
 
 * `Wikidata Lexemes - over 500K conjugations with morphological analysis, mainly based on Hspell. Can be queried using http://query.wikidata.org/ {'CC0'} - Uploaded by Uziel302
 
-* `Hebrew most common words by Twitter <https://github.com/YontiLevin/Hebrew-most-common-words-by-Twitter?fbclid=IwAR2oZcojNddFzs4Cd6cMI-Zyp1Mh8h2s2Ih61mQ3vQMDyw-2wf6Dd3DmIMw>`_ - based on tweets from March 2018 to March 2019.
+* `Hebrew most common words by Twitter <https://github.com/YontiLevin/Hebrew-most-common-words-by-Twitter?fbclid=IwAR2oZcojNddFzs4Cd6cMI-Zyp1Mh8h2s2Ih61mQ3vQMDyw-2wf6Dd3DmIMw>`_ - based on tweets from March 2018 to March 2019. Can be useful as stopword list.
 
 * `wordfreq <https://pypi.org/project/wordfreq/?fbclid=IwAR0XRlwXQlzbrVoodjatJTrcKwnxvoA4dVBSZyiQuB-qEzXAiizDX63hLGc>`_ {MIT} - wordfreq is a Python library for looking up the frequencies of words in 44 languages, including Hebrew. The Hebrew data is based on Wikipedia, OPUS OpenSubtitles 2018 and SUBTLEX, Google Books Ngrams 2012, Web text from OSCAR and Twitter.
 
