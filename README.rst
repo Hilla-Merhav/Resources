@@ -33,7 +33,7 @@ Structured Corpora
 
 * `hebrew corpus <http://hebrewcorpus.nmelrc.org/search.php>`_ {?} - HebrewCorpus is a new corpus with 150 million words from NMELRC.
 
-* `The Haifa Corpus of Spoken Hebrew <http://weblx2.haifa.ac.il/~corpus/corpus_website/>`_ {X} - A corpus of recorded spoken Hebrew and transcripts. Protected under rights reserved to Prof. Yael Maschler.
+* `The Haifa Corpus of Spoken Hebrew <http://weblx2.haifa.ac.il/~corpus/corpus_website/>`_ {X} - A corpus of recorded spoken Hebrew and transcripts. Protected under rights reserved to Prof. Yael Maschler. 
 
 * `Eran Tomer's Digital Vocalized Text Corpus <https://www.dropbox.com/sh/rlg0k0flz0675ho/AADvfxmY3SN8lqmkGAWr0hd2a?dl=0>`_ {`Apache License 2.0`_} - A corpus of digital vocalized Hebrew texts created by Eran Tomer as part of his Master thesis. The corpus is found in the ``resources`` folder.
 
