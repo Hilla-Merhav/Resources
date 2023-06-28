@@ -79,8 +79,6 @@ Dependency Treebanks
 
 * `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`CC-BY-SA 4.0`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. 
 
-* `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`Open`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
-
 * `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_ {`GPLv3`_} - The MILA center has 20 different corpora available for free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too. (temporarily down)
 
 Named Entity Recognition (NER)
@@ -91,6 +89,23 @@ Named Entity Recognition (NER)
 * `MDTEL <https://github.com/yonatanbitton/mdtel?fbclid=IwAR3Npi5lG4hGy1dcQwdr2RWuEFUArjmQ_bo3FXQ9KhYZUpK5OO67-aT-e5k>`_ {`MIT`_} - A dataset of posts from the www.camoni.co.il, tagged with medical entities from the UMLS, and a code that recognize medical entities in the Hebrew text.
 
 * `Ben-Mordecai and Elhadad's Corpus <https://www.cs.bgu.ac.il/~elhadad/nlpproj/naama/>`_ {?} - Newspaper articles in different fields: news, economy, fashion and gossip. The following entity types are tagged: entity names (person, location, organization), temporal expression (date, time) and number expression (percent, money). `Demo <https://www.cs.bgu.ac.il/~elhadad/nlpproj/naama/demo/demo.html>`_
+
+Part-of-speech (POS) tagging and Morphological Analysis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* `Knesset 2004-2005 <https://github.com/NLPH/knesset-2004-2005>`_ {`Public Domain`_} - A corpus of transcriptions of Knesset (Israeli parliament) meetings between January 2004 and November 2005. Includes tokenized and morphologically tagged versions of most of the documents in the corpus. `<MILA> <http://www.mila.cs.technion.ac.il/eng/resources_corpora_haknesset.html>`_ `<Zenodo> <https://zenodo.org/record/2707356>`_
+
+* `The Hebrew Treebank <http://www.mila.cs.technion.ac.il/resources_treebank.html>`_ {`GPLv3`_} - The Hebrew Treebank Version 2.0 contains 6500 hand-annotated sentences of news items from the MILA HaAretz Corpus, with full word segmentation and morpho-syntactic analysis. Morphological features that are not directly relevant for syntactic structures, like roots, templates and patterns, are not analyzed. This resource can be used freely for research purposes only. (temporarily down)
+
+* `UD Hebrew Treebank <https://github.com/UniversalDependencies/UD_Hebrew>`_ {`CC BY-NC-SA 4.0`_} - The Hebrew Universal Dependencies Treebank.
+
+* `Modern Hebrew Dependency Treebank V.1 <https://www.cs.bgu.ac.il/~yoavg/data/hebdeptb/>`_ {`GPLv3`_} - This is the Modern Hebrew Dependency Treebank which was created and used in Yoav Goldberg's `PhD thesis <http://www.cs.bgu.ac.il/~nlpproj/yoav-phd.pdf>`_.
+
+* `UD Hebrew IAHLTwiki <https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki>`_ {`CC-BY-SA 4.0`_} - Publicly available subset of the IAHLT UD Hebrew Treebank's Wikipedia section. The UD Hebrew-IAHLTWiki treebank consists of 5,000 contemporary Hebrew sentences representing a variety of texts originating from Wikipedia entries, compiled by the Israeli Association of Human Language Technology. It includes various text domains, such as: biography, law, finance, health, places, events and miscellaneous. 
+
+* `The Hebrew Language Corpus - Morphological Annotation (קורפוס השפה העברית - תיוג מורפולוגי) <https://data.gov.il/dataset/corpus?fbclid=IwAR0wdLSYk-v43SiZI1c2s4Pq0LPlPHP0HJ6MVHzKwn5l7GEXNVScRSyjUSk>`_ {`Open`_} - An annotated Hebrew database published as part of the Hebrew Language Corpus Project of Israel National Digital Agency and The Academy of the Hebrew Language.
+
+* `The MILA corpora collection <http://www.mila.cs.technion.ac.il/resources_corpora.html>`_ {`GPLv3`_} - The MILA center has 20 different corpora available for free for non-commercial use. All are available in plain text format, and most have tokenized, morphologically-analyzed, and morphologically-disambiguated versions available too. (temporarily down)
+
 
 Question Answering (QA)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
